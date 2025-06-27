@@ -1,0 +1,5 @@
+fs4
+*.tsbuildinfo
+.idea
+.swc
+dist
